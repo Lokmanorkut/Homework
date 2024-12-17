@@ -42,7 +42,7 @@ Welcome to the **D&D Games**, a console-based adventure game where players explo
 ### How to Run
 
 Run the following command in your terminal:
-cd "Game Path"(wherever you installed the game)
+cd "Game Path"(wherever you downloaded the game)
 make
-.\D_DGames
+.\dungeons_games
 
