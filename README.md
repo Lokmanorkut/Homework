@@ -17,5 +17,6 @@ Welcome to the **D&D Games**, a console-based adventure game where players explo
 ### Menu Commands 
 - **`list`** : Lists the saved games.  
 - **`save <filepath>`** : Saves the current game state to the specified file.  
-- **`load <filepath>`** : Loads a previously saved game state from the specified file.  
+- **`load <filepath>`** : Loads a previously saved game state from the specified file.
+- **`exit`** 
 
