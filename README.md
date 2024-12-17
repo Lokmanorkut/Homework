@@ -25,3 +25,24 @@ Welcome to the **D&D Games**, a console-based adventure game where players explo
 
 
 
+
+
+
+
+
+
+
+
+
+
+###Requirements:
+-C Compiler(GCC mingw etc.)
+-Make 
+
+###How to Run
+
+Run the following command in your terminal:
+cd "Game Path"(wherever you installed the game)
+make
+.\D_DGames
+
