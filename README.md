@@ -39,12 +39,12 @@ Extenguish the dragon in one of the rooms and escape from the dungeon.
 
 ### Requirements:
 -C Compiler(GCC mingw etc.).
--Make 
+-I use Makefile instead of Cmake
 
 ### How to Run
 
 Run the following command in your terminal:
 cd "Game Path"(wherever you downloaded the game)
-make
+gcc main.c game.c file_io.c -o dungeons_game
 .\dungeons_games
 
